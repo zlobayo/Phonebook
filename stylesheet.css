@@ -1,0 +1,43 @@
+h2 {
+    color: #004d99;
+    font-family: sans-serif;
+}
+h4 {
+    color: #004d99;
+    font-family: sans-serif;
+}
+.contact_div {
+    background-color: #80ffd4;
+    width: 450px;
+    padding: 10px;
+    border-radius: 20px;
+}
+table {
+    font-family: sans-serif;
+    font-size: small;
+}
+.td_id {
+    font-weight: bold;
+    color: #003366;
+    padding-right: 7px;
+}
+.btn1 {
+    background-color: #086A87;
+    color: white;
+    padding: 4px;
+    padding-right: 7px;
+    padding-left: 7px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 6px;
+}
+.results_div {
+    background-color: #F6CEF5;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #F781D8;
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: small;
+    border-radius: 20px;
+}
