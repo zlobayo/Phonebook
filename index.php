@@ -5,8 +5,8 @@
     <head>
         <meta charset="UTF-8">
         <title>Phonebook</title>
-    </head>
         <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
     <body>
         <h2>Phonebook home page</h2>
         <div class="search">           
