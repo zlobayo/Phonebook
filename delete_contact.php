@@ -7,9 +7,6 @@
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <style>
-
-    </style>
     <body>
         <h2>Delete contact</h2>
         <div>           
