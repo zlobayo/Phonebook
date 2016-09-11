@@ -5,8 +5,8 @@
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
     </head>
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <body>
         <h2>Results page</h2>
 
